@@ -2,7 +2,7 @@
 
 試題參酌及改寫來源：
 1. 網頁設計考題彙編 https://dmaa.nkut.edu.tw/files/archive/104_601a3208.pdf
-2. 很酷！HTML 經典試題 https://designrockin.wordpress.com/2014/12/03/%E5%BE%88%E9%85%B7%EF%BC%81html%E7%B6%93%E5%85%B8%E8%A9%A6%E9%A1%8C/ */
+2. 很酷！HTML 經典試題 https://designrockin.wordpress.com/2014/12/03/%E5%BE%88%E9%85%B7%EF%BC%81html%E7%B6%93%E5%85%B8%E8%A9%A6%E9%A1%8C */
 
 
 var html_test=[
