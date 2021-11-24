@@ -55,12 +55,16 @@
 `C. || My Comment`<br>
 `D. # My Comment`<br> 
 
-9. 閱讀以下程式碼，下列選項中與該程式碼效果相等的是：<br><br>
-`.box {margin: 10px 5px; margin-right: 10px; margin-top: 5px}`<br><br>
-`A. .box {margin: 5px 10px 0px 0px}`<br>
-`B. .box {margin: 10px 5px 10px 5px}`<br>
-`C. .box {margin: 10px 5px 0px 0px}`<br>
-`D. .box {margin: 5px 10px 10px 5px}`<br> 
+```
+9. 閱讀以下程式碼，下列選項中與該程式碼效果相等的是：
+
+.box {margin: 10px 5px; margin-right: 10px; margin-top: 5px}
+
+A. .box {margin: 5px 10px 0px 0px}
+B. .box {margin: 10px 5px 10px 5px}
+C. .box {margin: 10px 5px 0px 0px}
+D. .box {margin: 5px 10px 10px 5px}
+```
 
 10. 在定義內部樣式表時，習慣上會將內容寫在哪一個標籤中？<br>
 `A. <script>`<br>
@@ -71,12 +75,16 @@
 
 二、進階題 (每題 5 分，共 70 分)
 
-11. 閱讀以下程式碼，請問 div 容器的實際寬度為：<br><br>
-`div {padding: 15px 0; border: 5px; width: 340px}`<br><br>
-`A. 380px`<br>
-`B. 370px`<br>
-`C. 360px`<br>
-`D. 350px`<br>
+```
+11. 閱讀以下程式碼，請問 div 容器的實際寬度為：
+
+div {padding: 15px 0; border: 5px; width: 340px}
+
+A. 380px
+B. 370px
+C. 360px
+D. 350px
+```
 
 12. 類別 (class) 選擇器及 ID 選擇器為樣式定義的要角，這兩者的差別並不包含：<br>
 `A. 單一元素不可設定多個 class`<br>
@@ -96,12 +104,16 @@
 `C. 內聯樣式取代內部樣式的定義內容`<br>
 `D. 先執行者取代後執行者的定義內容`<br>
 
-15. 閱讀以下程式碼，請選出說明完全正確的選項：<br><br>
-`div {margin: 5px; letter-spacing: 0.1em}`<br><br>
-`A. div 屬於區塊元素，即本身已經內建 display:inline 設定`<br>
-`B. 此類別選擇器包含兩個屬性，且同時使用了絕對及相對單位書寫`<br>
-`C. 這兩項屬性都允許負值輸入，margin 還可以輸入多值分別定義`<br>
-`D. 若於程式碼下加寫一行 div 樣式定義，這行內容將被略過執行`<br>
+```
+15. 閱讀以下程式碼，請選出說明完全正確的選項：
+
+div {margin: 5px; letter-spacing: 0.1em}
+
+A. div 屬於區塊元素，即本身已經內建 display:inline 設定
+B. 此類別選擇器包含兩個屬性，且同時使用了絕對及相對單位書寫
+C. 這兩項屬性都允許負值輸入，margin 還可以輸入多值分別定義
+D. 若於程式碼下加寫一行 div 樣式定義，這行內容將被略過執行
+```
 
 16. 美編團隊建議網頁中各種標題的顏色要一致，哪一項工具將有助於提升修改的效率？<br>
 `A. ID 選擇器`<br>
