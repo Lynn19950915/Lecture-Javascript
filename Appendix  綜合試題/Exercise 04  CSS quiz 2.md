@@ -182,27 +182,27 @@ D. 5px
 
 
 參考答案與解析：
-1. A。樣式表可減少內聯樣式的重複制訂，藉此提升網頁運行效率。
-2. D
-3. B
-4. A。結構、表現、行為分別代表網頁的骨架、皮膚及動作。W3C 發布 XML, XHTML 等結構表現語言取代 HTML。
-5. C
-6. D
-7. C。font-style 可設定斜體 (italic)。
-8. A
-9. D。衝突時後設定者會取代先設定者 (如上例中 margin-top 及 margin-right)。
-10. B
-11. D
-12. A。class 可視開發需求制訂多個，但 id 有強烈的一對一關係 (故設定多個 id 無意義)。
-13. B。控制線條粗細的是 size 屬性，可設定 noshade 除去陰影。
-14. C。後執行者取代先執行者，優先順位：內聯樣式 > 內部樣式 > 外部樣式。
-15. C。div 為標籤選擇器，內建 display:block；字距設定為負代表文字緊縮；倘若未產生衝突，則兩行的 div 樣式都會被執行。
-16. B。多種標籤共用樣式時，可另創一個類別統一設定。
-17. B。邊界重疊 (margin collapsing)：同層相鄰元素之距離，只會保留設定較大者。
-18. D
-19. A
-20. C。類別選擇器以 . 為首，大小寫可混合，但不接受數字開頭。
-21. D。盒模型中僅 margin 可為負值，且只有 padding, margin 接受多值設定 (各側寬度需由 border top/bottom/left/right 分別定義)。
-22. C。A: text-decoration；B: font-family；C: text-align；D: color。
-23. B。border style 定義邊框樣式 (如實／虛線)；各側寬度需由 border top/bottom/left/right 分別定義。
-24. B。float, z-index 都具有垂直定位的功能；border 影響的是元素框界。
+1. `A`。樣式表可減少內聯樣式的重複制訂，藉此提升網頁運行效率。
+2. `D`。
+3. `B`。
+4. `A`。結構、表現、行為分別代表網頁的骨架、皮膚及動作。W3C 發布 XML, XHTML 等結構表現語言取代 HTML。
+5. `C`。
+6. `D`。
+7. `C`。font-style 可設定斜體 (italic)。
+8. `A`。
+9. `D`。衝突時後設定者會取代先設定者 (如上例中 margin-top 及 margin-right)。
+10. `B`。
+11. `D`。
+12. `A`。class 可視開發需求制訂多個，但 id 有強烈的一對一關係 (故設定多個 id 無意義)。
+13. `B`。控制線條粗細的是 size 屬性，可設定 noshade 除去陰影。
+14. `C`。後執行者取代先執行者，優先順位：內聯樣式 > 內部樣式 > 外部樣式。
+15. `C`。div 為標籤選擇器，內建 display:block；字距設定為負代表文字緊縮；倘若未產生衝突，則兩行的 div 樣式都會被執行。
+16. `B`。多種標籤共用樣式時，可另創一個類別統一設定。
+17. `B`。邊界重疊 (margin collapsing)：同層相鄰元素之距離，只會保留設定較大者。
+18. `D`。
+19. `A`。
+20. `C`。類別選擇器以 . 為首，大小寫可混合，但不接受數字開頭。
+21. `D`。盒模型中僅 margin 可為負值，且只有 padding, margin 接受多值設定 (各側寬度需由 border top/bottom/left/right 分別定義)。
+22. `C`。A: text-decoration；B: font-family；C: text-align；D: color。
+23. `B`。border style 定義邊框樣式 (如實／虛線)；各側寬度需由 border top/bottom/left/right 分別定義。
+24. `B`。float, z-index 都具有垂直定位的功能；border 影響的是元素框界。

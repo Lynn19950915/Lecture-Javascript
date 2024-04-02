@@ -202,27 +202,27 @@ D. banner > #first
 
 
 參考答案與解析：
-1. C。DOCTYPE 代表文件型別，必須先於所有程式碼宣告；網頁編碼則由 meta charset 定義。
-2. D。範例：p {border: 1px solid #FF00FF; font-size: 1em}。補充：內聯樣式才需搭配 style 屬性。
-3. A
-4. B。@import url('abc.css') 也可匯用樣式表。
-5. C。A: cellpadding；B: cellspacing；D: width (可使用絕對或相對單位)。
-6. D。以 # 開頭代表非換頁，而是導至頁面中的某段落；連結寄信採用 mailto 屬性。
-7. D
-8. B
-9. A
-10. C。text-transform: capitalize。
-11. B。特定元素需使用內聯樣式，標籤選擇器會影響其他超連結的色彩。
-12. C。span 屬於行內元素 (display: inline)，不可定義長寬尺寸；單行格虛線框所描述的是 div。
-13. A
-14. A。相對於原訂的頂端位置距離 10px，即將區塊向下移。
-15. B。A: a\[target='_blank']；C: 即標籤選擇器。
-16. C。style 並非 CSS 的屬性；font-size 對非文字元素無效；inline 物件無法設定垂直對齊。
-17. D。250px 是代表整個內層元素 #inner 的實際寬度 (不包括 #outer border)，故圖片的實際寬度為 140px。
-18. A。text-decoration: none。
-19. A。style 標籤定義的是內部樣式表；網頁可引用多份樣式，惟衝突時以後執行者為優先：內聯樣式 > 內部樣式 > 外部樣式 >瀏覽器 default 值。
-20. D。A: 加大行間的距離；B: 文字加粗；C: 加大內容與區塊之間距。
-21. D。bgcolor 標籤即 CSS 的 background-color 屬性，而 background 則為各背景參數的集合寫法；字型及斜體分別以 font-family, font-style 設定。
-22. A
-23. B。此即後裔選擇器用法；banner ul 會使得同結構的列表都受影響，宜設定 id 選擇器。
-24. C。b, strong 標籤均可產生粗體；font-style 可設定斜體 (italic)。
+1. `C`。DOCTYPE 代表文件型別，必須先於所有程式碼宣告；網頁編碼則由 meta charset 定義。
+2. `D`。範例：p {border: 1px solid #FF00FF; font-size: 1em}。補充：內聯樣式才需搭配 style 屬性。
+3. `A`。
+4. `B`。@import url('abc.css') 也可匯用樣式表。
+5. `C`。A: cellpadding；B: cellspacing；D: width (可使用絕對或相對單位)。
+6. `D`。以 # 開頭代表非換頁，而是導至頁面中的某段落；連結寄信採用 mailto 屬性。
+7. `D`。
+8. `B`。
+9. `A`。
+10. `C`。text-transform: capitalize。
+11. `B`。特定元素需使用內聯樣式，標籤選擇器會影響其他超連結的色彩。
+12. `C`。span 屬於行內元素 (display: inline)，不可定義長寬尺寸；單行格虛線框所描述的是 div。
+13. `A`。
+14. `A`。相對於原訂的頂端位置距離 10px，即將區塊向下移。
+15. `B`。A: a\[target='_blank']；C: 即標籤選擇器。
+16. `C`。style 並非 CSS 的屬性；font-size 對非文字元素無效；inline 物件無法設定垂直對齊。
+17. `D`。250px 是代表整個內層元素 #inner 的實際寬度 (不包括 #outer border)，故圖片的實際寬度為 140px。
+18. `A`。text-decoration: none。
+19. `A`。style 標籤定義的是內部樣式表；網頁可引用多份樣式，惟衝突時以後執行者為優先：內聯樣式 > 內部樣式 > 外部樣式 >瀏覽器 default 值。
+20. `D`。A: 加大行間的距離；B: 文字加粗；C: 加大內容與區塊之間距。
+21. `D`。bgcolor 標籤即 CSS 的 background-color 屬性，而 background 則為各背景參數的集合寫法；字型及斜體分別以 font-family, font-style 設定。
+22. `A`。
+23. `B`。此即後裔選擇器用法；banner ul 會使得同結構的列表都受影響，宜設定 id 選擇器。
+24. `C`。b, strong 標籤均可產生粗體；font-style 可設定斜體 (italic)。
