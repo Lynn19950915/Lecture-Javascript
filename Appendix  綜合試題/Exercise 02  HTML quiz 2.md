@@ -151,23 +151,23 @@ D. 控制元素的排列方式`
 <br>
 
 參考答案與解析：
-1. D
-2. A。background 屬性可取得背景圖片 (功能如同 img src)；而 background 標籤並不存在。
-3. C
-4. B
-5. B
-6. D。常見程式碼如 form method=POST action='abc.php'，表示表單用 POST 方式傳值 (並跳轉) 至 abc 頁面。
-7. C。margin, border, padding 分別代表盒子模型 (box-model) 的外距、框界及內距 (例如 div 與其包覆的文字)。
-8. A
-9. A
-10. B。range 可產生拖拉式數軸；hidden 不顯示 (常用於表單跨頁面傳值)；submit 則形同提交按鈕。
-11. D。預格式化文字由 pre 定義、em 及 strong 分別能產生斜體及粗體加以強調。
-12. A。input 支援檔案上傳及多媒體；text 才是文本類型 (textarea 是另一種可自訂輸入框行、列數的標籤)。
-13. C。A: cellpadding；B: cellspacing；D: width (可使用絕對或相對單位)。
-14. D。控制線條粗細的是 size 屬性，可設定 noshade 除去陰影。
-15. A
-16. B。a, link (常用於 stylesheet 引入) 搭配 href；多媒體檔案則使用 src 屬性；b 為粗體效果，無法針對連結作用。
-17. B。th 用來定義表頭；表格標題為 caption 而非 title (瀏覽器標題) 或 h1~h6。
-18. C。以 # 開頭代表非換頁，而是導至頁面中的某段落；連結寄信採用 mailto 屬性。
-19. C
-20. C。alt 屬性代表當圖片未載入時，要呈現在該位置的文字。
+1. `D`。
+2. `A`。background 屬性可取得背景圖片 (功能如同 img src)；而 background 標籤並不存在。
+3. `C`。
+4. `B`。
+5. `B`。
+6. `D`。常見程式碼如 form method=POST action='abc.php'，表示表單用 POST 方式傳值 (並跳轉) 至 abc 頁面。
+7. `C`。margin, border, padding 分別代表盒子模型 (box-model) 的外距、框界及內距 (例如 div 與其包覆的文字)。
+8. `A`。
+9. `A`。
+10. `B`。range 可產生拖拉式數軸；hidden 不顯示 (常用於表單跨頁面傳值)；submit 則形同提交按鈕。
+11. `D`。預格式化文字由 pre 定義、em 及 strong 分別能產生斜體及粗體加以強調。
+12. `A`。input 支援檔案上傳及多媒體；text 才是文本類型 (textarea 是另一種可自訂輸入框行、列數的標籤)。
+13. `C`。A: cellpadding；B: cellspacing；D: width (可使用絕對或相對單位)。
+14. `D`。控制線條粗細的是 size 屬性，可設定 noshade 除去陰影。
+15. `A`。
+16. `B`。a, link (常用於 stylesheet 引入) 搭配 href；多媒體檔案則使用 src 屬性；b 為粗體效果，無法針對連結作用。
+17. `B`。th 用來定義表頭；表格標題為 caption 而非 title (瀏覽器標題) 或 h1~h6。
+18. `C`。以 # 開頭代表非換頁，而是導至頁面中的某段落；連結寄信採用 mailto 屬性。
+19. `C`。
+20. `C`。alt 屬性代表當圖片未載入時，要呈現在該位置的文字。
