@@ -104,9 +104,9 @@ body {color: #C4C400}
 
 <p id='text' class='content gray'>Rainy Day</p>
 
-A. #FFFF00
+A. #F500F5
 B. #C4C400
-C. #F500F5
+C. #FFFF00
 D. #00FFBB
 ```
 
@@ -148,7 +148,7 @@ D. 後裔選擇器
 A. 250px
 B. 140px
 C. 110px
-D. 70px"
+D. 70px
 ```
 
 18. 在取消文字底線時，需要加入的屬性值為：<br>
